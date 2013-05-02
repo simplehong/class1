@@ -1,0 +1,72 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Symantec
+</title><link rel="stylesheet" type="text/css" href="style.css" /><link rel="Shortcut Icon" href="images/favicon.ico" type="image/x-icon" />
+    <style type="text/css">
+        .style1
+        {
+            height: 60px;
+        }
+    </style>
+
+    <script type="text/javascript">
+    <!--
+        function do_download() {
+            var ok = window.confirm("보안 설정으로 인해 Internet Explorer가 종료됩니다.");
+            if (ok) {
+                window.location.href = "download/SKP_PMS.exe";
+            }
+        }
+    //-->
+    </script>
+</head>
+<body >
+    <form name="form1" method="post" action="Download.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTIwMzc1MDExOWRkC6m2slnYf4ad2tAuB0Mqc5xkCRA=" />
+
+    <table   id= "Table1 "   width= "600" align="center"> 
+        <tr > 
+              <td valign="top"> 
+                        <img alt="" src="images/SKP.png"width="140" height="60"/>
+              </td> 
+        </tr>
+        <tr>
+        <td >
+            <div>
+            <p>SK플래닛에서 권장한 소프트웨어가 사용자 시스템에 설치되지 않았습니다.</p>
+            <p>설치파일 다운로드 후 필수 소프트웨어를 설치 하십시오.<br /><br /> <b><font color="blue">[ 미 설치시 인터넷 사용이 제한됩니다.]<br /><br /></font color="blue" ></b></p> 
+	    <p>소프트웨어 설치가 완료되면 <b><font color="red">설치완료</font color="red" ></b>페이지가 나오며 인터넷을 사용 하실 수 있습니다.(2~3분 소요예상)></b>
+<br /><br >※ 문의 : PMS 운영담당(02-6021-5358)
+<br /><br > PMS 담당 매니저(IT팀 문보형)</p>
+            </div>
+        </td>
+        </tr> 
+        <tr >
+        <td height="80"> 
+        <div  class="buttons" style="position:relative;width:180px;left:50%;margin-left:-90px;text-align:center;font-size:small">
+        <a class="regular" onclick="javascript:do_download();"><img src="images/download.gif" alt=""/>에이전트 다운로드</a>
+    </div>
+        </td>
+        </tr>
+        <tr>
+        <td align="center">
+        </td>
+        </tr>
+        <tr>
+        <td>
+            &nbsp;</td>
+        </tr>
+        <tr>
+        <td>
+            <div style="text-align: right"><img src="images/symantec.png" width="150" height="74" alt=""/></div>
+        </td>
+        </tr>
+    </table> 
+    
+    </form>
+</body>
+</html>
